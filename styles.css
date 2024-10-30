@@ -1,0 +1,13 @@
+body {
+    background-color: cadetblue;
+}
+
+h1 {
+    color:honeydew;
+    margin-left: 20px;
+}
+
+.text-color {
+    color: darkblue;
+    font-weight: bold;
+}
